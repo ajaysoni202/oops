@@ -1,0 +1,5 @@
+Abstract class contain atleast one abstract function
+Abstract function - must declear but not implement - function test();
+Abstract class could not create object
+abstract class, child class must contain abstract function
+abstract function not create body

@@ -1,0 +1,2 @@
+Accessing property to one class to another class
+child class can take  parent class

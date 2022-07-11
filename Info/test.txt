@@ -1,0 +1,4 @@
+everything is object here
+laptop,tv,table -> object
+classess - Categarization based on attribute and behaviour
+First make class and create attribute($variable) and define behaviour(function())

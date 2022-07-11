@@ -1,0 +1,5 @@
+Interface support multiple inheritence
+Interface can only contain abstract function
+Interface we can not define variable
+no constructer in interface
+All function must be in public
